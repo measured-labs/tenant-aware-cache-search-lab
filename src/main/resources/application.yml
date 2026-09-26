@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: tenant-aware-cache-search-lab
+
+server:
+  port: 8213
